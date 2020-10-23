@@ -37,12 +37,12 @@ A **Figura 1** ilustra a primeira versão da **Talos** em funcionamento, realiza
 ![Figura 1. Primeira versão da máquina Talos em funcionamento](/assets/images/img1.jpg)
 **Figura 1.** Primeira versão da máquina Talos em funcionamento
 
-A Figura 2 ilustra a digitalização de um documento histórico de grandes dimensões sendo realizado pela **Talos**. É importante notar que não é necessário planificar o documento ou aplicar pressão para que a digitalização seja realizada, permitindo a manutenção da vida útil do documento.
+A **Figura 2** ilustra a digitalização de um documento histórico de grandes dimensões sendo realizado pela **Talos**. É importante notar que não é necessário planificar o documento ou aplicar pressão para que a digitalização seja realizada, permitindo a manutenção da vida útil do documento.
 
 ![Figura 2. Documento de grandes dimensões sendo digitalizado pela Talos](/assets/images/img2.jpg)
 **Figura 2.** Documento de grandes dimensões sendo digitalizado pela Talos
 
-Os documentos já digitalizados pela **Talos** possuíam diferentes estados de conservação, sendo que alguns eram bastante difíceis de se manipular, o que impediria a sua digitalização em alta qualidade pela maioria dos equipamentos disponíveis no mercado. A **Talos** foi utilizada para digitalizar todos os documentos com a qualidade demandada pelas instituições, sem danificar nenhum destes documentos. A Figura 3 ilustra o exemplo de um documento histórico de grandes dimensões bastante frágil, o qual sofreria danos caso fosse digitalizados com um escâner tipo plotter, comumente utilizado na digitalização de mapas e plantas arquitetônicas. A Figura 4, por sua vez, ilustra o detalhe da alta qualidade das imagens capturadas pela **Talos**.
+Os documentos já digitalizados pela **Talos** possuíam diferentes estados de conservação, sendo que alguns eram bastante difíceis de se manipular, o que impediria a sua digitalização em alta qualidade pela maioria dos equipamentos disponíveis no mercado. A **Talos** foi utilizada para digitalizar todos os documentos com a qualidade demandada pelas instituições, sem danificar nenhum destes documentos. A **Figura 3** ilustra o exemplo de um documento histórico de grandes dimensões bastante frágil, o qual sofreria danos caso fosse digitalizados com um escâner tipo plotter, comumente utilizado na digitalização de mapas e plantas arquitetônicas. A **Figura 4**, por sua vez, ilustra o detalhe da alta qualidade das imagens capturadas pela **Talos**.
 
 ![Figura 3. Documento frágil de grandes dimensões digitalizado pela Talos](/assets/images/img3.png)
 **Figura 3.** Documento frágil de grandes dimensões digitalizado pela Talos
