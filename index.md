@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Digitalização em alta qualidade de documentos frágeis ou de grandes dimensões, considerando todos os requisitos dos usuários, dos gerenciadores de conteúdo e da instituição
+## Digitalização em alta qualidade de documentos frágeis ou de grandes dimensões, considerando todos os requisitos dos usuários, dos gerenciadores de conteúdo e da instituição
 
-##Sobre a Vulcano Equipamentos para Digitalização
+## Sobre a Vulcano Equipamentos para Digitalização
 	
 A Vulcano Equipamentos para Digitalização é uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões) e permitir a sua democratização através de repositórios digitais. Nossas soluções permitem que as instituições possam digitalizar os seus acervos sem a necessidade de equipes especializadas. Nossa metodologia engloba todas as etapas, desde a identificação de requisitos à disponibilização das imagens finais em alta qualidade.
 
@@ -31,7 +31,7 @@ Os principais diferenciais da *Talos* em relação aos produtos atualmente dispo
 - Aumentar a democratização dos documentos históricos do acervo
 - Reduzir a necessidade de manipulação dos documentos históricos do acervo, mantendo a sua vida útil
 
-##Exemplos de digitalizações utilizando a Talos
+## Exemplos de digitalizações utilizando a Talos
 A Figura 1 ilustra a primeira versão da *Talos* em funcionamento, realizando a digitalização de um mapa histórico frágil. A segunda versão, sendo atualmente desenvolvida, possui melhorias estéticas e em sua operação, reduzindo o tempo total de digitalização e melhorando a qualidade das imagens geradas.
 
 ![Figura 1. Primeira versão da máquina Talos em funcionamento](/assets/images/img1.jpg)
@@ -53,5 +53,7 @@ Os documentos já digitalizados pela *Talos* possuíam diferentes estados de con
 Para maiores informações, entre em contato conosco:
 
 São Paulo, SP
+
 Telefone : 11 97453-0862
-Email : fhatto@gmail.com
+
+Email : fhattori@gmail.com
