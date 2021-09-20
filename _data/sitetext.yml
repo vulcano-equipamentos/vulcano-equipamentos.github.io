@@ -1,0 +1,337 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Desenvolvimento de equipamentos para digitalização em alta qualidade de documentos históricos e culturais
+#     text: Digitalização em alta qualidade de documentos frágeis e de grandes dimensões
+    button: Saiba mais
+    buttonlink: "#services"
+
+  services:
+    title: "Serviços"
+    text: "Nossos principais serviços"
+    section: services
+    list:
+      - title: "Desenho de máquinas"
+        desc: "Desenhamos e projetamos máquinas para digitalização de documentos e objetos culturais e históricos, considerando os requisitos específicos das instituições."
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "Construção de máquinas"
+        desc: "Construímos máquinas específicas para a sua instituição ou projeto, permitindo a digitalização em alta qualidade de acervos institucionais."
+        icon: fas fa-cogs
+      - title: "Serviços de digitalização in-loco"
+        desc: "Possuímos uma equipe especializada com mais de cinco anos de experiência digitalizando documentos frágeis, de grandes dimensões, e de difícil manuseio"
+        icon: far fa-file-image
+
+  portfolio:
+    title: "Portfolio"
+    text: "Nossos projetos concluídos e em andamento"
+    section: portfolio
+    closebutton: "Fechar Projeto"
+
+  timeline:
+    title: "Linha do tempo"
+    text: "Nossa evolução"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Digitalização de Documentos"
+        year: "2016-2019"
+        desc: "Formação e especialização dos membros da equipe através de diversos projetos de digitalização e implementação de repositórios digitais em instituições de pequeno, médio e grande portes."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Primeira máquina: Lighter"
+        year: "2019"
+        desc: "Desenvolvimento e implementação do primeiro equipamento desenvolvido pela equipe, voltado à digitalização de alta qualidade de documentos encadernados utilizando smartphones."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Início P&D"
+        year: "2019"
+        desc: "Desenho dos processos de P&D da empresa e início de esforços voltados ao atendimento dos requisitos das instituições parceiras, focando em três componentes principais: hardware, software e processos operacionais."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Segunda máquina: Talos"
+        year: "2019-2020"
+        desc: "Desenvolvimento e implementação do segundo equipamento desenvolvido pela empresa, voltado à digitalização de alta qualidade de documentos frágeis de grandes dimensões (maiores que A2). Este projeto recebeu apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) através do programa de Pesquisa Inovativa em Pequenas Empresas (PIPE), processo número 18/22384-9."
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Melhorias: Lighter e Talos"
+        year: "2021"
+        desc: "Realização de diversas melhorias nos equipamentos desenvolvidos, visando: melhorar os processos operacionais, facilitar transporte e operação, e melhorar seus designs."
+        image: assets/img/timeline/5.jpg
+        alt:
+      - title: "Início P&D em IA"
+        year: "2021"
+        desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&G em Inteligência Artificial."
+        image: assets/img/timeline/6.jpg
+        alt:
+      - title: "Terceira máquina: 3DHeritage"
+        year: "2021-2023"
+        desc: "Atualmente, a empresa encontra-se desenvolvendo a sua terceira máquina. Esta é voltada à digitalização de objetos tridimensionais frágeis em alta qualidade, reduzindo consideravelmente o tempo de digitalização e aumentando a qualidade dos modelos tridimensionais gerados."
+        image: assets/img/timeline/7.jpg
+        alt:
+        # you can enforce the alignment
+#         align: right
+    end: "Faça parte de nossa história!"
+
+  about:
+    title: "Sobre a Vulcano"
+    text: "Nossa história"
+    body: "A Vulcano Equipamentos para Digitalização é uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões) e permitir a sua democratização através de repositórios digitais. Nossas soluções permitem que as instituições possam digitalizar os seus acervos sem a necessidade de equipes especializadas. Nossa metodologia engloba todas as etapas, desde a identificação de requisitos à disponibilização das imagens finais em alta qualidade. "
+    section: about
+
+#   clients:
+#     section: clients
+#     max-height: 100px
+#     horizontal-scrolling: "" #"yes/no"
+#     list:
+#       - title: "envato"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/envato.jpg
+#       - title: "designmodo"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/designmodo.jpg
+#       - title: "themeforest"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/themeforest.jpg
+#       - title: "Creative Market"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "Nossa equipe"
+    text: "Profissionais com experiência e voltados a desenvolver soluções para a sua instituição."
+#     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Fernando Hattori"
+        role: "Desenvolvedor"
+        image: assets/img/team/fernando.png
+        social:
+          - url: https://twitter.com/fhattori
+            icon: fab fa-twitter
+          - url: https://www.facebook.com/fernando.hattori
+            icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/fernandohattori
+            icon: fab fa-linkedin-in
+      - name: "Roberto Fray da Silva"
+        role: "Pesquisador em IA"
+        image: assets/img/team/roberto.png
+        social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/robertofraysilva
+            icon: fab fa-linkedin-in
+#       - name: "Diana Perterson"
+#         role: "Lead Developer"
+#         image: assets/img/team/500x500.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+
+  contact:
+    title: "Entre em contato"
+    text: "Preencha o formulário abaixo ou entre em contato pelo número 11 97453-0862"
+    section: contact
+    name: "Nome*"
+    name-validation: "Por favor, insira o seu nome."
+    email: "Email*"
+    email-validation: "Por favor, insira o seu email."
+    phone: "Número de contato"
+    phone-validation: "Por favor, insira o seu número de contato."
+    message: "Mensagem*"
+    message-validation: "Por favor, insira a sua mensagem."
+    subject: "Contact Form Submission"
+    submit: "Enviar mensagem"
+
+  footer:
+    legal: "Políticas de uso"
+#     social:
+#       - url: https://twitter.com
+#         icon: "fab fa-twitter"
+#       - url: https://facebook.com
+#         icon: "fab fa-facebook-f"
+#       - url: https://linkedin.com
+#         icon: "fab fa-linkedin-in"
+#       - url: https://github.com/raviriley/agency-jekyll-theme
+#         icon: "fab fa-github"
+#       - url: https://instagram.com
+#         icon: "fab fa-instagram"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+# es: &DEFAULT_ES
+#   header:
+#     title: ¡Bienvenido a nuestro Estudio!
+#     text: Es un placer conocerle
+#     button: Ver más
+#     buttonlink: "#servicios"
+
+#   services:
+#     title: "Servicios"
+#     text: "Lorem ipsum"
+#     section: servicios
+#     list:
+#       - title: "Comercio Electrónico"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+#       - title: "Diseño Responsivo"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+#         icon: fas fa-laptop
+#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+#         desc: "Su descripción aquí, soporte completo de **Markdown**"
+#         icon: fab fa-markdown
+
+#   portfolio:
+#     title: "Portafolio"
+#     text: "Lorem ipsum dolor sit amet consectetur."
+#     section: portafolio
+#     closebutton: "Cerrar Proyecto"
+
+#   timeline:
+#     title: "Cronología"
+#     text: "Lorem ipsum timeline"
+#     section: cronologia
+#     # left is the default
+#     #start_align: "left"
+#     events:
+#       - title: "Nuestro Humilde Comienzo"
+#         year: "2009-2011"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#         image: assets/img/timeline/1.jpg
+#         alt:
+#       - title: "Una Agencia nace"
+#         year: "March 2011"
+#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+#         image: assets/img/timeline/2.jpg
+#         alt:
+#       - title: "La plantilla Jekyll es creada"
+#         year: "2019"
+#         desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+#         image: assets/img/timeline/3.jpg
+#         alt: image alt text
+#       - title: "Título"
+#         year: "2009-2011"
+#         desc: "Su descripción aquí, **Markdown** es soportado completamente."
+#         image: assets/img/timeline/4.jpg
+#         alt:
+#         # you can enforce the alignment
+#         align: right
+#     end: "¡Se parte <br> de Nuestra <br> Historia!"
+
+#   about:
+#     title: "Sobre nosotros"
+#     text: "nuestra historia"
+#     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+#     section: nosotros
+
+#   clients:
+#     section: clientes
+#     max-height: 100px
+#     horizontal-scrolling: "" #"yes/no"
+#     list:
+#       - title: "envato"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/envato.jpg
+#       - title: "designmodo"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/designmodo.jpg
+#       - title: "themeforest"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/themeforest.jpg
+#       - title: "Creative Market"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/creative-market.jpg
+
+#   team:
+#     title: "NUESTRO INCREÍBLE EQUIPO"
+#     text: "Lorem ipsum dolor sit amet consectetur."
+#     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#     section: equipo
+#     people:
+#       - name: "Kay Garland"
+#         role: "Lead Designer"
+#         image: assets/img/team/500x500.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+#       - name: "Larry Parker"
+#         role: "Lead Marketer"
+#         image: assets/img/team/2.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+#       - name: "Diana Perterson"
+#         role: "Lead Developer"
+#         image: assets/img/team/500x500.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+
+#   contact:
+#     title: "Contáctenos"
+#     text: "Lorem ipsum or call 123456789"
+#     section: contacto
+#     name: "Nombre*"
+#     name-validation: "Por favor ingrese su nombre."
+#     email: "Correo Electrónico*"
+#     email-validation: "Por favor ingrese su correo electrónico."
+#     phone: "Número Telefónico*"
+#     phone-validation: "Por favor ingrese su número telefónico."
+#     message: "Mensaje*"
+#     message-validation: "Por favor escriba un mensaje."
+#     subject: "Envío del formulario de contacto"
+#     submit: "Enviar Mensaje"
+
+#   footer:
+#     legal: "Política de Privacidad"
+#     social:
+#       - url: https://twitter.com
+#         icon: "fab fa-twitter"
+#       - url: https://facebook.com
+#         icon: "fab fa-facebook-f"
+#       - url: https://linkedin.com
+#         icon: "fab fa-linkedin-in"
+#       - url: https://github.com/raviriley/agency-jekyll-theme
+#         icon: "fab fa-github"
+#       - url: https://instagram.com
+#         icon: "fab fa-instagram"
+# es-ES:
+#   <<: *DEFAULT_ES
+# es-CO:
+#   <<: *DEFAULT_ES

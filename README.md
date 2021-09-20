@@ -1,9 +1,19 @@
-# Vulcano Equipamentos
-
 Bem-vindo ao repositório do website da Vulcano Equipamentos para Digitalização, uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões).
 
-Nosso website está disponível em [vulcano-equipamentos.github.io](https://vulcano-equipamentos.github.io).
+Nosso website está disponível em vulcano-equipamentos.github.io.
 
-O desenvolvimento e a realização dos testes de nosso primeiro equipamento, chamado de *Talos*, uma solução completa para a digitalização de documentos frágeis de grandes dimensões, foram realizados com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), mediante o programa de Pesquisa Inovativa em Pequenas Empresas (PIPE). Este equipamento já foi utilizado para digitalizar mais de 500 mapas frágeis de diferentes dimensões (desde documentos A4 a documentos maiores que A0), em diferentes estados de conservação. Para maiores informações sobre o projeto, [consulte este link](https://bv.fapesp.br/pt/auxilios/105748/analise-da-viabilidade-tecnica-e-comercial-de-uma-maquina-portatil-de-baixo-custo-para-digitalizacao).
 
-Para mais informações, bem como para a realização de parcerias e consultas, por favor contate Fernando Hattori em fhattori@gmail.com.
+# [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
+[![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/raviriley)
+
+This is the fastest and easiest way to get up and running on GitHub Pages.
+Simply generate your own repository by clicking the [![template button](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate) button, 
+then replace the sample content with your own and configure for your needs.
+
+If you want your website to be at `YOUR-USERNAME.github.io`, that's what you must name your repo. If you want it to be like this: `https://raviriley.github.io/agency-jekyll-theme-starter/`, them make sure the `baseurl` in `_config.yml` matches the name of your repo.
+
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/raviriley) to continue developing and maintaining it.**
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/raviriley)
