@@ -71,7 +71,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Início P&D em IA"
         year: "2021"
-        desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&G em Inteligência Artificial."
+        desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&D em Inteligência Artificial."
         image: assets/img/timeline/6.jpg
         alt:
       - title: "Terceira máquina: 3DHeritage"
